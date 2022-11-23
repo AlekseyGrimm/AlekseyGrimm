@@ -1,6 +1,6 @@
 ### Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-👨‍💻 Detail-oriented Front-End Developer with 4+ years of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript.
+👨‍💻 Detail-oriented Front-End Developer with 1+ years of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript.
 
 ### 🛠️ Skills
 
@@ -15,8 +15,8 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brovkin&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brovkin&hide=handlebars,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlekseyGrimm&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGrimm&hide=handlebars,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links
 

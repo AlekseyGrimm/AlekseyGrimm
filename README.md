@@ -1,6 +1,6 @@
 ### Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-👨‍💻 Detail-oriented Front-End Developer with 1+ years of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript.
+👨‍💻 Detail-oriented Front-End Developer of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript.
 
 ### 🛠️ Skills
 
